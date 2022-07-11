@@ -67,4 +67,4 @@ Archive:  gym-tictactoe.zip
   inflating: gym-tictactoe/gym_tictactoe/envs/.ipynb_checkpoints/tictactoe_env-checkpoint.py
   ```
   
-  
+Now jump to the Jupyter Notebook.
