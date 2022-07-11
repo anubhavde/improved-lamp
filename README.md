@@ -33,4 +33,38 @@ gym-tictactoe.zip   100%[===================>]   9.88K  --.-KB/s    in 0s
 
 2022-07-09 09:09:14 (91.2 MB/s) - ‘gym-tictactoe.zip’ saved [10119/10119]
 ```
-Next, we have to unzip 
+Next, we have to unzip the downloaded files which we will do by running the following command:
+```
+!unzip -o gym-tictactoe.zip
+```
+The output should be like this:
+```
+Archive:  gym-tictactoe.zip
+   creating: gym-tictactoe/
+   creating: gym-tictactoe/gym_tictactoe.egg-info/
+   creating: gym-tictactoe/gym_tictactoe/
+  inflating: gym-tictactoe/setup.py  
+   creating: gym-tictactoe/.ipynb_checkpoints/
+  inflating: gym-tictactoe/gym_tictactoe.egg-info/PKG-INFO  
+  inflating: gym-tictactoe/gym_tictactoe.egg-info/SOURCES.txt  
+  inflating: gym-tictactoe/gym_tictactoe.egg-info/requires.txt  
+  inflating: gym-tictactoe/gym_tictactoe.egg-info/top_level.txt  
+  inflating: gym-tictactoe/gym_tictactoe.egg-info/dependency_links.txt  
+  inflating: gym-tictactoe/gym_tictactoe/__init__.py  
+   creating: gym-tictactoe/gym_tictactoe/__pycache__/
+   creating: gym-tictactoe/gym_tictactoe/.ipynb_checkpoints/
+   creating: gym-tictactoe/gym_tictactoe/envs/
+  inflating: gym-tictactoe/.ipynb_checkpoints/setup-checkpoint.py  
+  inflating: gym-tictactoe/gym_tictactoe/__pycache__/__init__.cpython-39.pyc  
+  inflating: gym-tictactoe/gym_tictactoe/.ipynb_checkpoints/__init__-checkpoint.py  
+  inflating: gym-tictactoe/gym_tictactoe/envs/__init__.py  
+   creating: gym-tictactoe/gym_tictactoe/envs/__pycache__/
+   creating: gym-tictactoe/gym_tictactoe/envs/.ipynb_checkpoints/
+  inflating: gym-tictactoe/gym_tictactoe/envs/tictactoe_env.py  
+  inflating: gym-tictactoe/gym_tictactoe/envs/__pycache__/__init__.cpython-39.pyc  
+  inflating: gym-tictactoe/gym_tictactoe/envs/__pycache__/tictactoe_env.cpython-39.pyc  
+  inflating: gym-tictactoe/gym_tictactoe/envs/.ipynb_checkpoints/__init__-checkpoint.py  
+  inflating: gym-tictactoe/gym_tictactoe/envs/.ipynb_checkpoints/tictactoe_env-checkpoint.py
+  ```
+  
+  
