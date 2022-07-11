@@ -19,6 +19,7 @@ To install the environment files we have run the following command
 ```
 !wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/playing-tictactoe-with-reinforcement-learning-and-openai-gym/gym-tictactoe.zip
 ```
+The output should resemble somewhat like this:
 ```
 --2022-07-09 09:09:12--  https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/playing-tictactoe-with-reinforcement-learning-and-openai-gym/gym-tictactoe.zip
 Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
